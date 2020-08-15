@@ -42,9 +42,7 @@ As you can see, the password `hunter18` has been in 3468 leaks, submitted to [ha
 
 ## Author
 
-* **Tim Engel** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Tim Engel** - *Initial work* - [Veticus](https://github.com/Veticus)
 
 ## License
 
